@@ -15,7 +15,7 @@ This project focuses on analyzing and predicting customer churn in the banking s
 
 ## 📊 Dataset Overview
 
-- **Source:** Bank Customer Churn (kaggle.com)
+- **Source:** [Kaggle - Bank Customer Churn](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn?fbclid=IwAR2EiBzhQphi0kE4NuPVzRx68HGTsAcvNeq_sncH1joh7Iq3M6XufXfrmX4)
 - **Rows:** 10,000
 - **Features:** 18 (including age, geography, balance, credit score, tenure, etc.)
 - **Target Variable:** `Exited` (1 if the customer churned, 0 otherwise)
@@ -66,7 +66,7 @@ Less important: `HasCrCard`, `Tenure`, `Satisfaction Score`, `Card Type`
 ## 📊 Dashboard (Tableau)
 
 Interactive churn insights available here:  
-🔗 https://public.tableau.com/app/profile/anh.ph.m.ho.ng.ph.ng/viz/PROJECTCHURNANALYSISFINAL/Story1?publish=yes
+🔗 [View Tableau Dashboard](#) *(https://public.tableau.com/app/profile/anh.ph.m.ho.ng.ph.ng/viz/PROJECTCHURNANALYSISFINAL/Story1?publish=yes)*
 
 ---
 
