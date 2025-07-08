@@ -15,7 +15,7 @@ This project focuses on analyzing and predicting customer churn in the banking s
 
 ## 📊 Dataset Overview
 
-- **Source:** [Kaggle - Bank Customer Churn](https://www.kaggle.com)
+- **Source:** https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn?fbclid=IwAR2EiBzhQphi0kE4NuPVzRx68HGTsAcvNeq_sncH1joh7Iq3M6XufXfrmX4
 - **Rows:** 10,000
 - **Features:** 18 (including age, geography, balance, credit score, tenure, etc.)
 - **Target Variable:** `Exited` (1 if the customer churned, 0 otherwise)
