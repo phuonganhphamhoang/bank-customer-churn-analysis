@@ -66,7 +66,7 @@ Less important: `HasCrCard`, `Tenure`, `Satisfaction Score`, `Card Type`
 ## 📊 Dashboard (Tableau)
 
 Interactive churn insights available here:  
-🔗 [View Tableau Dashboard](#) *(https://public.tableau.com/app/profile/anh.ph.m.ho.ng.ph.ng/viz/PROJECTCHURNANALYSISFINAL/Story1?publish=yes)*
+🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/anh.ph.m.ho.ng.ph.ng/viz/PROJECTCHURNANALYSISFINAL/Story1?publish=yes)
 
 ---
 
