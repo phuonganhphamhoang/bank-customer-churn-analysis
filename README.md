@@ -41,13 +41,27 @@ This project focuses on analyzing and predicting customer churn in the banking s
 
 ---
 
-## 📈 Modeling & Evaluation
+## 🤖 Modeling & Evaluation
 
-- **Model used:** Random Forest Classifier
-- **Train/Test Split:** 80/20
-- **Accuracy:** 91.18%
-- **Precision/Recall (Exited):** 91% / 91%
-- **ROC-AUC Score:** 0.9686
+We trained and evaluated several classification models to predict customer churn:
+
+| Model                   | Accuracy |
+|------------------------|----------|
+| Logistic Regression     | 79.3%    |
+| K-Nearest Neighbors     | 84.4%    |
+| Decision Tree           | 86.4%    |
+| Gradient Boosting       | 88.6%    |
+| Random Forest (final)   | **91.2%** ✅ |
+
+> Final model: **Random Forest** selected due to highest accuracy and robust performance across metrics.
+
+**Metrics Evaluated**:
+- Accuracy
+- Precision / Recall / F1-Score
+- Confusion Matrix
+- ROC-AUC Score: **0.9686**
+
+The models were trained using an 80/20 train-test split. SMOTE was applied to balance the dataset before training.
 
 ---
 
